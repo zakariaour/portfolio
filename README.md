@@ -34,11 +34,11 @@ Passionné et motivé, j’aime relever des défis et atteindre des objectifs en
 
 ### 🧠 **Application de gestion de charge mentale pour enseignants et élèves**  
 - **Description :** Application mobile en Flutter et Dart pour aider les enseignants à gérer leurs tâches.  
-- **Lien :** [🔗 Voir sur GitHub](#)  
+- **Lien :** [🔗 Voir sur GitHub](https://github.com/Alpha-Academie/calcul_charge_mentale_v2)  
 
 ### 💼 **Application web pour une agence de freelances**  
 - **Description :** Construction d’une Single Page Application en React.  
-- **Lien :** [🔗 Voir sur GitHub](#)  
+- **Lien :** [🔗 Voir sur GitHub](https://github.com/zakariaour/shiny-agency)  
 
 ### 🎮 **Jeux en JavaScript**  
 - **Description :** Développement de jeux classiques (Snake, Démineur, Morpion) et d’une calculatrice.  
