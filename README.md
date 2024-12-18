@@ -32,6 +32,21 @@ Passionné et motivé, j’aime relever des défis et atteindre des objectifs en
 
 ## 🔨 Projets Réalisés  
 
+### 🧠 **Analyse des ventes de voitures 🚗📊**  
+- **Description :** Analyse de données pour explorer et visualiser les tendances sur un dataset de voitures d'occasion.  
+- **Technologies :** Python, Pandas, Matplotlib, Seaborn  
+- **Lien :** [🔗 Voir sur GitHub](https://github.com/zakariaour/sales-analysis-project)  
+
+### 🌐 **Web Scraping Project**  
+- **Description :** Script Python utilisant `requests` et `BeautifulSoup` pour scraper des données d'une page e-commerce publique.  
+- **Technologies :** Python, Requests, BeautifulSoup4  
+- **Lien :** [🔗 Voir sur GitHub](https://github.com/zakariaour/web-scraping-project)  
+
+### 🌦️ **Weather App**  
+- **Description :** Application React qui permet d'afficher la météo en temps réel pour une ville choisie.  
+- **Technologies :** React.js, OpenWeatherMap API, CSS  
+- **Lien :** [🔗 Voir sur GitHub](https://github.com/zakariaour/weather-app)  
+
 ### 🧠 **Application de gestion de charge mentale pour enseignants et élèves**  
 - **Description :** Application mobile en Flutter et Dart pour aider les enseignants à gérer leurs tâches.  
 - **Lien :** [🔗 Voir sur GitHub](https://github.com/Alpha-Academie/calcul_charge_mentale_v2)  
@@ -42,7 +57,8 @@ Passionné et motivé, j’aime relever des défis et atteindre des objectifs en
 
 ### 🎮 **Jeux en JavaScript**  
 - **Description :** Développement de jeux classiques (Snake, Démineur, Morpion) et d’une calculatrice.  
-- **Lien :** [🔗 Voir sur GitHub](#)  
+- **Lien :** [🔗 Voir sur GitHub](https://github.com/zakariaour/snake-game)  
+- **Lien :** [🔗 Voir sur GitHub](https://github.com/zakariaour/tic-tac-toe)  
 
 ---
 
